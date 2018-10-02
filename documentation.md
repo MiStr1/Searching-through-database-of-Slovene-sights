@@ -3,7 +3,8 @@
 1. Objects
 
 	* Tree
-		Values:
+	
+		Values
 		
 			* kids is a list of Trees.
 			* name is a string.

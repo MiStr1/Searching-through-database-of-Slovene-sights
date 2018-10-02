@@ -6,4 +6,4 @@
 #### Usage
 * Program.py and slovenia_db.db need to be in the same folder.
 * Run the program.py with python and follow the instructions given in the terminal.
-* Program returns name,tags and region name from all the sights with given constraints.
+* Program prints name,tags and region name from all the sights with given constraints.

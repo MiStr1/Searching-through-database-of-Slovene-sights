@@ -36,6 +36,7 @@
 		Iterates through all the names of table region and stores them into list.
 
 4. User interaction
+
 	Consists of prints, inputs and loops wich ensure that the input numbers are ok.
 	
 		

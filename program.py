@@ -66,7 +66,6 @@ class Tree(object):
 
 #searches the database based on three constraints and prints name,tags,regionName for all hits
 def query(nameConstraint, TagConstraint, regionConstraint):
-    print(nameConstraint)
     if (regionConstraint == ""):
         for row in c.execute("SELECT name,tags,regionName FROM attraction WHERE UPPER(name) LIKE '%" + nameConstraint + "%' AND tags LIKE '" + TagConstraint + "%'"):
             print (row)

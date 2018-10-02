@@ -43,7 +43,7 @@
 
 4. User interaction
 
-	Consists of prints, inputs and loops wich ensure that the input numbers are ok.
+	Consists of prints, inputs and loop wich ensures that the input numbers are ok.
 	
 		
 		
